@@ -22,6 +22,7 @@ if Double(symmaInt) < symmaDouble {
     print("Error")
 }
 
-print ("Int8.min = \(Int8.min)")
-print ("Int8.max = \(Int8.max)")
-print ("UInt8.min= \(UInt8.min)")
+print ("Int8.min  = \(Int8.min)")
+print ("Int8.max  = \(Int8.max)")
+print ("UInt8.min = \(UInt8.min)")
+print ("UInt8.max = \(UInt8.max)")
